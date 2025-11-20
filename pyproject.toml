@@ -43,6 +43,7 @@ dependencies = [
     "pillow>=11.1.0",
     "probscale>=0.2.5",
     "pyperclip>=1.9.0",
+    "pytest>=8.3.5",
     "scikit-learn>=1.6.1",
     "scipy>=1.15.2",
     "statsmodels>=0.14.4",

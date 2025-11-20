@@ -530,8 +530,8 @@ ccgpaper = {'axes.axisbelow': True, 'axes.edgecolor': 'black', 'axes.facecolor':
 			'lines.solid_capstyle': 'round', 'patch.linewidth': 0.3,
 			'pdf.fonttype': 3, 'ps.fonttype': 3, 'ps.useafm': True,
 			'xtick.color': 'black', 'xtick.direction': 'out', 'xtick.labelsize': 11,
-			'xtick.major.pad': 3, 'xtick.major.width': 1, 'xtick.major.size': 0,
-			'xtick.minor.width': 0.5, 'xtick.minor.size': 0, 'ytick.color': 'black',
+			'xtick.major.pad': 3, 'xtick.major.width': 1, 'xtick.major.size': 3,
+			'xtick.minor.width': 0.5, 'xtick.minor.size': 1, 'ytick.color': 'black',
 			'ytick.direction': 'out', 'ytick.labelsize': 11, 'ytick.major.pad': 3,
 			'ytick.major.width': 1, 'ytick.major.size': 0, 'ytick.minor.width': 0.5,
 			'ytick.minor.size': 0}
